@@ -1,7 +1,9 @@
 site_name: Zeitmanagement
 nav:
   - Home: index.md
-theme: material
+theme:
+  name: 'material'
+  language: 'de'
 use_directory_urls: true
 markdown_extensions:
     - toc:
