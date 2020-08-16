@@ -1,6 +1,8 @@
-site_name: Zeitmanagement
+site_name: Zeitmanagement - Time Management
 nav:
-  - Home: index.md
+  - Einleitung: index.md
+  - Ziele: ziele.md
+  - Zielerreichung/Planung: zielerreichung.md
 theme:
   name: 'material'
   language: 'de'
@@ -26,5 +28,7 @@ markdown_extensions:
     - pymdownx.tasklist:
         custom_checkbox: true
     - pymdownx.tilde
+extra_css:
+  - css/extra.css
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
