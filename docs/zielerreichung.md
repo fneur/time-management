@@ -25,3 +25,15 @@ Mit Monotasking machen Sie mehr aus Ihrer Zeit:
  - die Teilaufgaben nach Abhängigkeiten, Prioritäten und Terminen ordnen
  - alle Aktivitäten erledigen und das Ergebnis kontrollieren
 
+**Pareto Prinzip**
+  remember the 80/20 rule (Pareto Principle); Seiwert S. 27, Krengel ab S. 105
+  Here, the idea is that by doing 20% of the work you can produce 80% of the benefit/results of doing the whole job.
+  So focus on the 20 percent of activities that matter.
+  Durch 20% der Aufgaben werden 80% der Ergebnisse erzielt.
+  Finde daher die 20/80-Prozent Erfolgsverursacher heraus (privat und beruflich) und behandle sie mit der höchsten Priorität.
+  Nur die wenigsten Aufgaben müssen perfekt erledigt werden. Es reicht oft aus, dass sie überhaupt erledigt sind.
+  Wende die 20/80-Regel immer dann an, wenn viele Dinge gleichzeitig gemacht werden müssen, zeitliche Ressourcen
+  sehr knapp sind oder wenn es nicht darauf ankommt, 100% Leistung zu erreichen.
+  Oft ist eine Gut-genug-Lösung besser als eine perfekte Arbeit, weil man so auch Zeit für andere, mitunter wichtigere Projekte findet.
+  Konzentriere dich auf die wenigen Aktivitäten, die am wertvollsten für dein Fortkommen sind.
+

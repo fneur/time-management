@@ -9,17 +9,28 @@ möglichst produktiv zu nutzen.
 Ganz allgemein geht es darum, die eigene Lebenszeit intensiver und bewusster
 für das zu nutzen, was einem wichtig ist.
 
-Zeitmanagement bedeutet also insbesonders, die eigene Zeit und damit vor allem
+Zeitmanagement bedeutet also insbesondere, die eigene Zeit und damit vor allem
 auch die eigene Arbeitszeit zu beherrschen, statt sich von ihnen beherrschen zu
 lassen.
 
 ## Warum ist Zeitmanagement wichtig?
-to-do
+Ein gutes Zeitmanagement ist deshalb so wichtig, damit Sie stets die Kontrolle
+über Ihre Aufgaben und Termine behalten, sich bewusst für oder gegen etwas
+entscheiden und nicht länger von den anstehenden Aufgaben bestimmt werden.
+Es vermindert den Leistungsdruck und hilft Ihnen dabei, stets zielgerichtet
+und fokussiert zu bleiben, und bewirkt damit (indirekt) auch eine Steigerung
+Ihrer Leistungsfähigkeit und Produktivität.
 
- - Fokus verlieren
- - nicht zielgerichtet arbeiten
- - moderne Arbeitswelt viele Termine und Aufgaben
- - Zeitdiebe wie E-Mail, Social Media etc.
+Damit ergeben sich entscheidende Vorteile in der Bewältigung des
+Arbeitsalltags, der sich in der modernen Arbeitswelt sehr oft wie folgt
+präsentiert:
+
+ - viele anstehende Termine und Aufgaben (zu jeder Zeit)
+ - damit einhergehend ein hoher Termin- und Leistungsdruck
+ - Stress und Hektik
+ - gefühlter Kontrollverlust, sehr oft in Kombination mit einem Gefühl der
+Überforderung
+ - viele Ablenkungen und Unterbrechungen, die ein produktives Arbeiten behindern
 
 ## Zeitmanagement vs. Stress
 Ein arbeitsreicher Tag muss noch lange keinen Stress bedeuten.
