@@ -2,7 +2,7 @@ site_name: Zeitmanagement - Time Management
 nav:
   - Einleitung: index.md
   - Ziele: ziele.md
-  - Zielerreichung/Planung: zielerreichung.md
+  - Zielerreichung/Zeitplanung: zielerreichung.md
 theme:
   name: 'material'
   language: 'de'
