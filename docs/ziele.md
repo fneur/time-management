@@ -35,7 +35,7 @@ handelt sich dabei um einen klassischen
 - Was erfüllt mich mit Zufriedenheit und bereitet mir wirklich Freude?
 - Wie kann ich meine Fähigkeiten und meine Kreativität unter Beweis stellen?
 
-???+ "Handlungsempfehlung"
+???+ hint "Handlungsempfehlung"
     Setzen Sie sich realistische Ziele und verwirklichen diese konsequent.
     Stecken Sie auch immer einen zeitlichen Rahmen dafür:
     kurzfristig (<1 Jahr), mittelfristig (<5 Jahre), langfristig.

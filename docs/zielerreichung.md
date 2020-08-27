@@ -15,7 +15,8 @@ eine wesentliche Rolle.
 Das wichtigste Planungsprinzip ist die Schriftlichkeit. Über Zeitpläne, die
 man nur im Kopf hat, verliert man den Überblick, und sie werden leichter
 umgeworfen. Ein schriftlich fixierter Plan hat den psychologischen Effekt
-einer Selbstmotivation zur Arbeit. Schriftliche Zeitpläne, in einem separaten
+einer Selbstmotivation zur Arbeit, denn Schriftlichkeit schafft
+Verbindlichkeit. Schriftliche Zeitpläne, in einem separaten
 Ordner gesammelt, stellen auch automatisch eine Dokumentation über die
 geleistete Arbeit dar.
 
@@ -67,4 +68,20 @@ Zeit für andere, mitunter wichtigere Dinge findet.
 Wende das Prinzip immer dann an, wenn viele Dinge gleichzeitig gemacht werden
 müssen, zeitliche Ressourcen sehr knapp sind oder wenn es nicht darauf ankommt,
 100% Leistung zu erreichen.
+
+### Eat the frog first
+Nach [M. Krengel und L. Seiwert](/#zusammenfassung-und-literatur)
+disziplinieren sich erfolgreiche Menschen dazu, immer mit der wichtigsten und
+meistens auch schwierigsten Aufgabe, die vor ihnen liegt, anzufangen, anstatt
+diese (immer wieder) aufzuschieben oder sich unwichtigen Tätigkeiten
+oder sonstigen Ablenkungen zu widmen. Dadurch erreichen sie in Summe viel mehr
+als andere und ziehen insbesondere mehr Befriedigung aus dem, was sie tun.
+
+???+ tip "Handlungsempfehlung"
+    Beginnen Sie (generell und insbesondere am Tagesanfang) konsequent mit der
+
+     - wichtigsten und/oder
+     - schwierigsten und/oder
+     - unangenehmsten und/oder
+     - denkintensivsten Aufgabe.
 

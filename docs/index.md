@@ -42,11 +42,11 @@ eine profunde Planung in den Griff zu bekommen und beherrschbar zu machen.
 
 ## Zusammenfassung und Literatur
 
-???+ "Zusammenfassung"
+???+ summary "Zusammenfassung"
     Zeitmanagement bedeutet, die eigene Zeit und damit vor allem auch die eigene
     Arbeitszeit zu beherrschen, statt sich von ihnen beherrschen zu lassen.
 
 ???+ "Weiterführende Literatur"
-    Seiwert, K. *Das 1x1 des Zeitmanagement*. GRÄFE UND UNZER VERLAG, 2019.
+    Seiwert, L. *Das 1x1 des Zeitmanagement*. GRÄFE UND UNZER VERLAG, 2019.
 
     Krengel, M. *Golden Rules*. Eazybookz, 2018.

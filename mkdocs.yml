@@ -3,6 +3,8 @@ nav:
   - Einleitung: index.md
   - Ziele: ziele.md
   - Zielerreichung/Zeitplanung: zielerreichung.md
+  - Zeitplanung/Methodik: methodik.md
+  - Zeitplanung/Priorisierung: priorisierung.md
 theme:
   name: 'material'
   language: 'de'
