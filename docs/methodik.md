@@ -94,7 +94,6 @@ ordnen (unter Berücksichtigung von etwaigen Abhängigkeiten).
      Nachkontrolle: am Ende eines Tages diesen Tag auswerten (abendliche Kontrolle der Tagesereignisse, SOLL/IST-Vergleich des Tagesplans) und
      den nächsten planen (z.B. Unerledigtes vom Vortag übertragen)
  - eat the frog first anwenden;
- - Pareto-Prinzip anwenden; Seiwert S. 27, Krengel ab S. 105
- - Rotationsprinzip bei vielen Aufgaben Krengel S. 109; todo im Abschnitt Planungsprinzipien anführen?
+ - Pareto-Prinzip + Rotationsprinzip(bei vielen Aufgaben) anwenden; Seiwert S. 27, Krengel ab S. 105
  - Pausenzeiten bereits am So für die ganze Woche im Terminplan eintragen; machen Sie mindestens einmal am Tag einen Spaziergang
 

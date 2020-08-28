@@ -52,11 +52,14 @@ Das [Pareto-Prinzip](https://de.wikipedia.org/wiki/Paretoprinzip), auch
 Gesamtaufwandes erreicht werden. Die verbleibenden 20% der Ergebnisse
 erfordern mit 80% des Gesamtaufwandes die quantitativ meiste Arbeit.
 
-**Durch 20% der Aufgaben werden 80% der Ergebnisse erzielt.**
+???+ summary "Zusammenfassung"
+    Durch 20% der Aufgaben werden 80% der Ergebnisse erzielt.
 
-Finde daher die 20/80-Prozent Erfolgsverursacher heraus (privat und beruflich)
-und behandle sie mit der höchsten Priorität. Konzentriere dich auf die wenigen
-Aktivitäten, die am wertvollsten für dein Fortkommen sind.
+???+ tip "Handlungsempfehlung"
+    Finden Sie daher die 20/80-Prozent Erfolgsverursacher heraus (privat und
+    beruflich) und behandeln Sie sie mit der höchsten Priorität. Konzentrieren
+    Sie sich auf die wenigen Aktivitäten, die am wertvollsten für Ihr
+    Fortkommen sind.
 
 Das Pareto-Prinzip lässt sich auch sehr oft auf den Erledigungsgrad einzelner
 Aufgaben anwenden. 
@@ -65,9 +68,17 @@ dass sie überhaupt erledigt sind.
 Oft ist eine Gut-genug-Lösung besser als eine perfekte Arbeit, weil man so auch
 Zeit für andere, mitunter wichtigere Dinge findet.
 
-Wende das Prinzip immer dann an, wenn viele Dinge gleichzeitig gemacht werden
-müssen, zeitliche Ressourcen sehr knapp sind oder wenn es nicht darauf ankommt,
-100% Leistung zu erreichen.
+Wende das Prinzip immer dann an, wenn viele Aufgaben gleichzeitig zu erledigen
+sind, zeitliche Ressourcen sehr knapp sind oder wenn es nicht darauf ankommt,
+100% Leistung zu erreichen. Im praktischen Umgang mit dem ersten Fall hat sich
+das *Rotationsprinzip* bewährt:
+
+Bei vielen gleichzeitig zu erledigenden Aufgaben sollten diese nicht komplett
+bearbeitet werden, sondern man sollte nur den ersten, wichtigsten Schritt
+machen, dann zur nächsten Aufgabe übergehen und auch hier versuchen, den
+größten und wichtigsten Brocken aus dem Weg zu räumen. Nach einem kompletten
+Durchlauf startet man wieder mit der ersten Aufgabe. So vermeidet man es,
+sich mit einer Sache zuungunsten anderer zu verzetteln.
 
 ### Eat the frog first
 Nach [M. Krengel und L. Seiwert](/#zusammenfassung-und-literatur)
