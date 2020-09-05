@@ -66,34 +66,105 @@ Aufgabenliste nach Prioritäten und/oder Zielterminen bzw. Deadlines zu
 ordnen (unter Berücksichtigung von etwaigen Abhängigkeiten).
 
 ### Tages- und Wochenplan
- - Aufgaben aus der Aufgabenliste herunterbrechen, die in der nächsten Woche anstehen,
-   und ggf. um zugehörige Teilaufgaben ergänzen; Seiwert S. 34, Krengel ab S. 96
- - Schreiben Sie Ihren Tagesplan für den nächsten Tag möglichst am Abend davor (am Ende des Arbeitstages) und notieren Sie die Aufgaben ausführlich genug,
-   damit Sie nicht am Folgetag überlegen müssen, was Sie abends zusammengekritzelt haben. Die wichtigsten Projekte für den kommenden Tag schon griffbereit legen.
-   So haben Sie am nächsten Morgen alle Aufgaben vor Augen, können sofort loslegen und vergeuden keine wertvolle Zeit.
-   Lege abends die Hauptaufgabe des nächsten Tages auf den aufgeräumten Schreibtisch. Egal was kommt, morgen musst du sofort daran.
- - carpe diem - nutze den Tag für die wichtigen Dinge und vermeide es, die Zeit mit Unentschlossenheit, Zeitdieben und Planlosigkeit zu vergeuden.
-   Teile dazu den Tag gedanklich in Blöcke à 1,5 bis 2 Stunden ein; s. Krengel ab S. 96
-   kurze Pausen zw. den Blöcken einplanen und für Routine und Support nutzen
- - Für die Kategorie "wichtig, nicht dringend" proaktiv Zeit im Tagesgeschehen blockieren. Auf diese Dinge kommt es wirklich an.
- - Stille Stunde reservieren (am frühen Morgen) bzw. Termine für Vernachlässigtes machen; Seiwert S. 61-63, Krengel S. 98
- - Was habe ich geschafft? Machen Sie sich am Ende der Woche bewusst, was Sie in den letzten Tagen alles geschafft haben.
-   Das gibt Ihnen einen Motivationsschub für die folgende Woche.
- - Tagesplanung mit der ALPEN Methode Seiwert S. 34
-     Aufgaben, Aktivitäten und Termine aufschreiben (ggf. Seiwert-Vorlage S.36 verwenden):
-     Input = Aufgaben aus Aufgabenliste, Unerledigtes vom Vortag, neu hinzukommende Tagesarbeiten, geplante Termine und Telefonate/Meetings
-     Länge/Dauer der Aktivitäten schätzen
-     Pufferzeit reservieren: nur etwa 60% für geplante Aktivitäten, 20% für unerwartete (Störungen, Zeitdiebe), 20% für spontane und soziale Aktivitäten (kreative Zeiten)
-      - Praxistipp: nur 1-2 A-Aufgaben pro Tag (ca. 3h gesamt) einplanen, weitere 2-3 B-Aufgaben (etwa 1h gesamt) vorsehen, den Rest (etwa 0,75h) für C-Aufgaben reservieren
-      - Für die Erledigung von A-Aufgaben ist es sinnvoll, 45 bis 60 Minuten störungsfrei arbeiten zu können (stille Stunde reservieren),
-        möglichst am (frühen) Vormittag (bis 9 Uhr bzw. max. 10 Uhr), da diese Zeit typischerweise störarm bzw. weniger störanfällig ist (s. "Störzeiten-Kurve" Seiwert S. 62),
-        störanfällige Zeiten (10-12 Uhr, 1430-1630 Uhr) für weniger wichtige Aufgaben verwenden
-        Beachten Sie auch Ihre Leistungskurve (Seiwert S. 75): Der Leistungshöhepunkt liegt am Vormittag (daher fü A-Aufgaben freihalten), gefolgt vom bekannten Nachmittagstief (daher
-        für C-Aufgaben (Routinetätigkeiten) und soziale Kontakte nutzen), am späten Nachmittag wieder wichtigeren Aktivitäten (B-Aufgaben) zuwenden
-     Entscheidungen treffen (priorisieren, delegieren, kürzen):  mittels ABC Analyse bzw. Eisenhower Prinzip (s. unten)
-     Nachkontrolle: am Ende eines Tages diesen Tag auswerten (abendliche Kontrolle der Tagesereignisse, SOLL/IST-Vergleich des Tagesplans) und
-     den nächsten planen (z.B. Unerledigtes vom Vortag übertragen)
- - eat the frog first anwenden;
- - Pareto-Prinzip + Rotationsprinzip(bei vielen Aufgaben) anwenden; Seiwert S. 27, Krengel ab S. 105
- - Pausenzeiten bereits am So für die ganze Woche im Terminplan eintragen; machen Sie mindestens einmal am Tag einen Spaziergang
+Auf Basis der
+[Aktivitäten- bzw. Aufgabenliste](./#aktivitaten-bzw-aufgabenliste)
+kann die eigentliche Zeitplanung vorgenommen werden.
+Wenn man beginnt, mit Zeitplänen zu arbeiten, empfiehlt sich als erster
+Schritt die Planung jedes einzelnen Tages bzw. jeder einzelnen Woche,
+wobei der Wochenplan als Aggregat der einzelnen Tagespläne zu verstehen ist.
+
+Wie bereits erläutert, enthält ein Tages- bzw. Wochenplan konkrete
+Tätigkeiten, heruntergebrochen aus der Aufgabenliste,
+die am jeweiligen Tag bzw. in der jeweiligen Woche anstehen (ggf. ergänzt
+um zugehörige Teilaufgaben):
+
+ - Schreiben Sie Ihren Tagesplan für den nächsten Tag möglichst am Abend davor
+   (am Ende des Arbeitstages) und notieren Sie die Aufgaben ausführlich genug,
+   damit Sie am Folgetag nicht lange überlegen müssen, sondern gleich mit der
+   Bearbeitung der ersten Aufgabe starten können. Diese sollte gemäß dem
+   ["Eat the frog first"-Prinzip](../zielerreichung/#eat-the-frog-first)
+   gleichzeitig auch die wichtigste Aufgabe des Tages sein.
+ - Als weitere Vorbereitungsmaßnahme sollten Sie die wichtigsten Projekte bzw.
+   die Hauptaufgabe für den kommenden Tag schon griffbereit legen. So haben Sie
+   am nächsten Morgen alles parat, können sofort loslegen und vergeuden keine
+   wertvolle Zeit.
+ - Als Input für die konkrete Planung dienen:
+    - Aufgaben und Aktivitäten aus der [Aufgabenliste](./#aktivitaten-bzw-aufgabenliste),
+    - Unerledigtes vom Vortag,
+    - geplante Termine und Meetings, Telefonate (sofern diese nicht in der
+      Aufgabenliste enthalten sind) sowie
+    - neu hinzukommende Tagesarbeiten.
+
+ - Wie in der Beschreibung zur [Aufgabenliste](./#aktivitaten-bzw-aufgabenliste)
+   ausgeführt, müssen Sie eine Priorisierung sowie eine Abschätzung der Dauer
+   der einzelnen Tätigkeiten vornehmen.
+ - Die Grobplanung des Tagesablaufs sollte unter Berücksichtigung von Schritt 3
+   der [ALPEN-Methode](./#alpen-methode)  wie folgt gestaltet werden:
+    - Reservieren Sie nur etwa 60% für geplante Aktivitäten,
+    - 20% für Unerwartetes (Störungen, Zeitdiebe etc.), und
+    - 20% für spontane und soziale Aktivitäten (kreative Zeiten).
+
+    ???+ tip "Praxistipp"
+        Nur 1-2 A-Aufgaben pro Tag (ca. 3h gesamt) einplanen, weitere 2-3
+        B-Aufgaben (etwa 1h gesamt) vorsehen, den Rest (etwa 0,75h) für
+        C-Aufgaben reservieren!
+ 
+        Für die Aufgabenkategorie "wichtig, nicht dringend" proaktiv Zeit im
+        Tagesgeschehen blockieren. Auf diese Dinge kommt es wirklich an.
+
+ - Für die konkrete Tagesplanung
+    - teilen Sie den Tag gedanklich in Blöcke zu je maximal 1,5 bis 2 Stunden
+      Länge ein, mit kurzen Pausen zwischen den Blöcken.
+    - Für die Erledigung von A-Aufgaben ist es sinnvoll, 45 bis 60 Minuten
+      störungsfrei arbeiten zu können. Platzieren Sie daher den zugehörigen
+      Arbeitsblock möglichst am (frühen) Vormittag (bis 9 bzw. maximal 10 Uhr),
+      da diese Zeit typischerweise störarm bzw. weniger störanfällig ist.
+
+    ???+ tip "Praxistipp"
+        In der Praxis hat es sich deshalb bewährt, täglich eine "Stille Stunde"
+        oder "Sperrzeit" einzurichten, in der man dafür sorgt, von niemandem
+        gestört zu werden.
+
+    - Störanfällige Zeiten (10-12 Uhr und ab ca. 14:30 Uhr) sollten für weniger
+      wichtige Aufgaben genutzt werden.
+    - Beachten Sie auch Ihre Leistungskurve:
+        - Der Leistungshöhepunkt liegt am Vormittag (daher für A-Aufgaben
+          freihalten),
+        - gefolgt vom bekannten Nachmittagstief (daher für C-Aufgaben,
+          Routinetätigkeiten und soziale Kontakte nutzen),
+        - und einem Leistungsanstieg am späteren Nachmittag (daher für
+          B-Aufgaben nutzen).
+    - Und wenden Sie das [Pareto-Prinzip](../zielerreichung/#pareto-prinzip)
+      und (bei vielen Aufgaben)
+      das [Rotationsprinzip](../zielerreichung/#pareto-prinzip) an.
+
+ - Am Ende eines Tages stehen folgende Punkte auf dem Programm:
+    - Nachkontrolle - Schritt 5 der [ALPEN-Methode](./#alpen-methode):
+        - SOLL/IST-Vergleich des Tagesplans
+        - Kontrolle der Tagesereignisse: dadurch geht Ihnen das
+          Unerledigte nicht verloren. (Sie übertragen es auf einen anderen
+          Tag und erledigen es entsprechend später.) 
+    - Planung des nächsten Tages (z.B. Unerledigtes vom Vortag übertragen)
+
+## Abschlussbemerkungen
+ - Nutzen Sie den Tag für die wichtigen Dinge und vermeiden Sie es, die Zeit
+   mit Unentschlossenheit, Zeitdieben und Planlosigkeit zu vergeuden.
+   Ein paar Tipps im Umgang mit Störungen und Zeitdieben finden Sie
+   [hier](../zeitdiebe/).
+ - Machen Sie sich am Ende der Woche bewusst, was Sie in den letzten Tagen
+   alles geschafft haben. Das gibt Ihnen einen Motivationsschub für die
+   folgende Woche.
+ - Lassen Sie die Aufgaben, an denen Sie und Ihre Leistung gemessen werden,
+   nicht unerledigt liegen.
+ - Lassen Sie sich nicht unter Druck setzen, sondern bearbeiten Sie eine
+   Aufgabe nach der anderen in dem Tempo, das Sie für richtig und gut halten.
+ - Betrachten Sie Pausen nicht als Zeitverschwendung, sondern als erholsames
+   Auftanken von Energie. Machen Sie dabei auch mindestens einmal am Tag
+   einen Spaziergang.
+ - Beginnen und beenden Sie Ihren Tag immer positiv (Ihre Grundeinstellung
+   hat einen maßgeblichen Anteil an Ihrem Erforlg oder Misserfolg); hier
+   ein paar Vorschläge:
+    - gemütliches Frühstück mit der Familie,
+    - Morgensport (Jogging, Gymnastik etc.),
+    - gelassene Fahrt zur Arbeit ohne Hast.
 

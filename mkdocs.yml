@@ -5,6 +5,7 @@ nav:
   - Zielerreichung/Zeitplanung: zielerreichung.md
   - Zeitplanung/Methodik: methodik.md
   - Zeitplanung/Priorisierung: priorisierung.md
+  - Störungen und Zeitdiebe: zeitdiebe.md
 theme:
   name: 'material'
   language: 'de'
