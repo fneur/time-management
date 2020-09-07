@@ -9,7 +9,7 @@ manchen sind wir selbst schuld; für andere ist unsere Umgebung verantwortlich:
  - Überwindungszeit, bevor man Dinge anfängt
 
 Um die zur Verfügung stehende Zeit möglichst produktiv zu nutzen, ist es
-daher wichtig diese Zeitdiebe zu fassen und ihre Auswirkungen auf ein
+daher wichtig, diese Zeitdiebe zu fassen und ihre Auswirkungen auf ein
 Mindestmaß zu reduzieren.
 
 ???+ tip
@@ -18,22 +18,22 @@ Mindestmaß zu reduzieren.
 
 Eine besondere Herausforderung stellt die tägliche E-Mail-Flut dar. Nutzen
 Sie E-Mails, aber lassen Sie sie nicht zu einem weiteren Zeitdieb werden, der
-Sie von Ihrer eigentlichen Arbeit ablenkt.
+Sie von Ihrer eigentlichen Arbeit ablenkt:
 
-
-E-Mails nicht kontinuierlich checken - Seiwert S.11
-
-E-Mail Eingang zu festgelegten Zeiten prüfen, z.B. zweimal am Tag je 1h oder dreimal für je 40min
-
-besonders wichtige und dringende Nachrichten sofort bearbeiten, ebenso E-Mails deren Erledigung schnell geht (2-Minuten-Regel)
-E-Mails, deren Bearbeitung mehr Zeit in Anspruch nimmt, in einer eigenen Ordnerstruktur ablegen; Aufgabe mit Termin daraus machen und E-Mail ablegen
-
-Eingangsordner regelmäßig leeren; sofortige Entscheidung bei jeder Nachricht: Reagieren, archivieren oder löschen?
-(cf. also https://www.made-in-office.com/de/blog/der-beste-zeitmanagement-tipp-halten-sie-ihre-inbox-leer/)
-Wenn Sie eine Nachricht zum späteren Nachschlagen aufbewahren möchten, legen Sie diese auch in einer Ordnerstruktur ab     
-
-sorgfältig überlegen, wer eine E-Mail in Kopie (CC) benötigt
-
+ - Prüfen Sie Ihren E-Mail Eingang nicht kontinuierlich auf neue Nachrichten,
+   sondern nur zu festgelegten Zeiten; z.B. zweimal am Tag je 1h oder dreimal
+   für je 40min.
+ - Leeren Sie Ihren E-Mail Eingang regelmäßig (im Rahmen der oben genannten
+   Bearbeitungsblöcke). Treffen Sie dabei für jede Nachricht eine
+   sofortige Entscheidung: *reagieren/bearbeiten*, *archivieren* oder *löschen*?
+ - Besonders wichtige und dringende Nachrichten bearbeiten Sie sofort, ebenso
+   E-Mails, deren Bearbeitung nich mehr als 3 Minuten in Anspruch nimmt.
+   E-Mails, deren Bearbeitung mehr Zeit in Anspruch nimmt, legen Sie in einer
+   eigenen Ordnerstruktur ab und machen eine Aufgabe mit Termin daraus.
+ - Wenn Sie eine Nachricht zum späteren Nachschlagen aufbewahren möchten,
+   legen Sie diese auch in einer Ordnerstruktur ab.
+ - Überlegen Sie sorgfältig, wer Ihre E-Mail in Kopie benötigt. So gehen Sie
+   als Vorbild voran, was die Eindämmung der E-Mail-Flut angeht.
 
 ???+ tip "Handlungsempfehlung"
     Erstellen Sie eine Liste mit Zeitdieben, auf die Sie künftig verzichten
