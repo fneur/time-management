@@ -10,7 +10,7 @@ Arbeitsmethodik nichts, denn der Endzustand jeder Handlung bleibt unklar.
 denn *Schriftlichkeit schafft Verbindlichkeit*.
  - Ziele sollen immer positiv formuliert werden
 (denn unser Unterbewusstsein versteht keine Verneinung).
- - Ziele sollen [SMART](https://en.wikipedia.org/wiki/SMART_criteria) sein:
+ - Ziele sollen [SMART](https://de.wikipedia.org/wiki/SMART_(Projektmanagement)) sein:
     - Specific (eindeutig definiert, genau beschrieben)
     - Measurable (messbar)
     - Achievable (erreichbar)

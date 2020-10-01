@@ -3,7 +3,7 @@ Es gibt viele verschiedene Methoden des Zeitmanagements bzw. der
 Selbstorganisation, die das Ziel verfolgen, den Verlauf eines (Arbeits-)Tages
 so zu strukturieren, dass die zur Verfügung stehende Zeit möglichst produktiv
 genutzt werden kann. Im Folgenden wird die ALPEN-Methode nach
-[L. Seiwert](/#zusammenfassung-und-literatur)
+[L. Seiwert](../#zusammenfassung-und-literatur)
 näher erläutert.
 
 ## ALPEN-Methode
