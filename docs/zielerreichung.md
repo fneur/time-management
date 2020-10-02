@@ -81,7 +81,7 @@ Durchlauf startet man wieder mit der ersten Aufgabe. So vermeidet man es,
 sich mit einer Sache zuungunsten anderer zu verzetteln.
 
 ### Eat the frog first
-Nach [M. Krengel und L. Seiwert](../#zusammenfassung-und-literatur)
+Nach [M. Krengel und L. Seiwert](./index.md#zusammenfassung-und-literatur)
 disziplinieren sich erfolgreiche Menschen dazu, immer mit der wichtigsten und
 meistens auch schwierigsten Aufgabe, die vor ihnen liegt, anzufangen, anstatt
 diese (immer wieder) aufzuschieben oder sich unwichtigen Tätigkeiten

@@ -3,7 +3,7 @@ Es gibt viele verschiedene Methoden des Zeitmanagements bzw. der
 Selbstorganisation, die das Ziel verfolgen, den Verlauf eines (Arbeits-)Tages
 so zu strukturieren, dass die zur Verfügung stehende Zeit möglichst produktiv
 genutzt werden kann. Im Folgenden wird die ALPEN-Methode nach
-[L. Seiwert](../#zusammenfassung-und-literatur)
+[L. Seiwert](./index.md#zusammenfassung-und-literatur)
 näher erläutert.
 
 ## ALPEN-Methode
@@ -43,9 +43,9 @@ Für jede neue Aufgabe/Aktivität sind folgende Schritte zu durchlaufen:
    erledigt werden? Kontrollieren Sie aber immer die Umsetzung von
    delegierten Aufgaben (Inhalte und Termineinhaltung).
    Ein einfaches, praktisches Hilfsmittel zum wirksamen Delegieren bildet
-   das sogenannte [Eisenhower-Prinzip](../priorisierung/#eisenhower-prinzip).
+   das sogenannte [Eisenhower-Prinzip](./priorisierung.md#eisenhower-prinzip).
  - Größere Aufgaben sollten unter Anwendung der
-   [Divide-and-conquer-Strategie](../zielerreichung/#divide-and-conquer-strategie)
+   [Divide-and-conquer-Strategie](./zielerreichung.md#divide-and-conquer-strategie)
    in einzelne, kleine Teile zerlegt werden.
  - Schätzen Sie den voraussichtlichen Zeitaufwand bis zur Erledigung der
    Aktivität grob ab. Notieren Sie auch bereits bekannte Zieltermine/Deadlines.
@@ -54,8 +54,8 @@ Für jede neue Aufgabe/Aktivität sind folgende Schritte zu durchlaufen:
  - Setzen Sie Prioritäten; d.h., entscheiden Sie darüber, welche Aufgaben
    erstrangig, zweitrangig und welche nachrangig zu behandeln sind. Folgende
    Instrumente können dabei hilfreich sein:
-    - [ABC-Analyse](../priorisierung/#abc-analyse)
-    - [Eisenhower-Prinzip](../priorisierung/#eisenhower-prinzip)
+    - [ABC-Analyse](./priorisierung.md#abc-analyse)
+    - [Eisenhower-Prinzip](./priorisierung.md#eisenhower-prinzip)
  - Prüfen Sie auch auf etwaige Abhängigkeiten zu bestehenden
    Aufgaben/Aktivitäten und halten Sie diese in der Aufgabenliste gesondert
    fest;    bspw. kann es vorkommen, dass mit einer Aktivität erst begonnen
@@ -67,7 +67,7 @@ ordnen (unter Berücksichtigung von etwaigen Abhängigkeiten).
 
 ### Tages- und Wochenplan
 Auf Basis der
-[Aktivitäten- bzw. Aufgabenliste](./#aktivitaten-bzw-aufgabenliste)
+[Aktivitäten- bzw. Aufgabenliste](#aktivitaten-bzw-aufgabenliste)
 kann die eigentliche Zeitplanung vorgenommen werden.
 Wenn man beginnt, mit Zeitplänen zu arbeiten, empfiehlt sich als erster
 Schritt die Planung jedes einzelnen Tages bzw. jeder einzelnen Woche,
@@ -82,24 +82,24 @@ um zugehörige Teilaufgaben):
    (am Ende des Arbeitstages) und notieren Sie die Aufgaben ausführlich genug,
    damit Sie am Folgetag nicht lange überlegen müssen, sondern gleich mit der
    Bearbeitung der ersten Aufgabe starten können. Diese sollte gemäß dem
-   ["Eat the frog first"-Prinzip](../zielerreichung/#eat-the-frog-first)
+   ["Eat the frog first"-Prinzip](./zielerreichung.md#eat-the-frog-first)
    gleichzeitig auch die wichtigste Aufgabe des Tages sein.
  - Als weitere Vorbereitungsmaßnahme sollten Sie die wichtigsten Projekte bzw.
    die Hauptaufgabe für den kommenden Tag schon griffbereit legen. So haben Sie
    am nächsten Morgen alles parat, können sofort loslegen und vergeuden keine
    wertvolle Zeit.
  - Als Input für die konkrete Planung dienen:
-    - Aufgaben und Aktivitäten aus der [Aufgabenliste](./#aktivitaten-bzw-aufgabenliste),
+    - Aufgaben und Aktivitäten aus der [Aufgabenliste](#aktivitaten-bzw-aufgabenliste),
     - Unerledigtes vom Vortag,
     - geplante Termine und Meetings, Telefonate (sofern diese nicht in der
       Aufgabenliste enthalten sind) sowie
     - neu hinzukommende Tagesarbeiten.
 
- - Wie in der Beschreibung zur [Aufgabenliste](./#aktivitaten-bzw-aufgabenliste)
+ - Wie in der Beschreibung zur [Aufgabenliste](#aktivitaten-bzw-aufgabenliste)
    ausgeführt, müssen Sie eine Priorisierung sowie eine Abschätzung der Dauer
    der einzelnen Tätigkeiten vornehmen.
  - Die Grobplanung des Tagesablaufs sollte unter Berücksichtigung von Schritt 3
-   der [ALPEN-Methode](./#alpen-methode)  wie folgt gestaltet werden:
+   der [ALPEN-Methode](#alpen-methode)  wie folgt gestaltet werden:
     - Reservieren Sie nur etwa 60% für geplante Aktivitäten,
     - 20% für Unerwartetes (Störungen, Zeitdiebe etc.), und
     - 20% für spontane und soziale Aktivitäten (kreative Zeiten).
@@ -134,12 +134,12 @@ um zugehörige Teilaufgaben):
           Routinetätigkeiten und soziale Kontakte nutzen),
         - und einem Leistungsanstieg am späteren Nachmittag (daher für
           B-Aufgaben nutzen).
-    - Und wenden Sie das [Pareto-Prinzip](../zielerreichung/#pareto-prinzip)
+    - Und wenden Sie das [Pareto-Prinzip](./zielerreichung.md#pareto-prinzip)
       und (bei vielen Aufgaben)
-      das [Rotationsprinzip](../zielerreichung/#pareto-prinzip) an.
+      das [Rotationsprinzip](./zielerreichung.md#pareto-prinzip) an.
 
  - Am Ende eines Tages stehen folgende Punkte auf dem Programm:
-    - Nachkontrolle - Schritt 5 der [ALPEN-Methode](./#alpen-methode):
+    - Nachkontrolle - Schritt 5 der [ALPEN-Methode](#alpen-methode):
         - SOLL/IST-Vergleich des Tagesplans
         - Kontrolle der Tagesereignisse: dadurch geht Ihnen das
           Unerledigte nicht verloren. (Sie übertragen es auf einen anderen
@@ -150,7 +150,7 @@ um zugehörige Teilaufgaben):
  - Nutzen Sie den Tag für die wichtigen Dinge und vermeiden Sie es, die Zeit
    mit Unentschlossenheit, Zeitdieben und Planlosigkeit zu vergeuden.
    Ein paar Tipps im Umgang mit Störungen und Zeitdieben finden Sie
-   [hier](../zeitdiebe/).
+   [hier](./zeitdiebe.md).
  - Machen Sie sich am Ende der Woche bewusst, was Sie in den letzten Tagen
    alles geschafft haben. Das gibt Ihnen einen Motivationsschub für die
    folgende Woche.

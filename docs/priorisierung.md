@@ -1,8 +1,8 @@
 # Zeitplanung/Priorisierung
 Um zu entscheiden, welche Aufgaben erstrangig, zweitrangig und welche
 nachrangig behandelt werden sollen, können die klassische
-[ABC-Analyse](./#abc-analyse) oder das
-[Eisenhower-Prinzip](./#eisenhower-prinzip) herangezogen werden.
+[ABC-Analyse](#abc-analyse) oder das
+[Eisenhower-Prinzip](#eisenhower-prinzip) herangezogen werden.
 
 ## ABC-Analyse
 Der Schlüssel für ein erfolgreiches Zeitmanagement liegt darin, den geplanten
