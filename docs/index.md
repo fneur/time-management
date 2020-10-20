@@ -1,6 +1,6 @@
 # Zeitmanagement
 
-## Was ist Zeitmangement?
+## Was ist Zeitmanagement?
 Gemäß [Wikipedia](https://de.wikipedia.org) versteht man unter dem Begriff
 [*Zeitmanagement*](https://de.wikipedia.org/wiki/Zeitmanagement) im Rahmen
 des Selbstmanagements alle Maßnahmen, die zur Verfügung stehende Zeit

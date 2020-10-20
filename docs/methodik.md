@@ -162,7 +162,7 @@ um zugehörige Teilaufgaben):
    Auftanken von Energie. Machen Sie dabei auch mindestens einmal am Tag
    einen Spaziergang.
  - Beginnen und beenden Sie Ihren Tag immer positiv (Ihre Grundeinstellung
-   hat einen maßgeblichen Anteil an Ihrem Erforlg oder Misserfolg); hier
+   hat einen maßgeblichen Anteil an Ihrem Erfolg oder Misserfolg); hier
    ein paar Vorschläge:
     - gemütliches Frühstück mit der Familie,
     - Morgensport (Jogging, Gymnastik etc.),

@@ -27,7 +27,7 @@ Sie von Ihrer eigentlichen Arbeit ablenkt:
    Bearbeitungsblöcke). Treffen Sie dabei für jede Nachricht eine
    sofortige Entscheidung: *reagieren/bearbeiten*, *archivieren* oder *löschen*?
  - Besonders wichtige und dringende Nachrichten bearbeiten Sie sofort, ebenso
-   E-Mails, deren Bearbeitung nich mehr als 3 Minuten in Anspruch nimmt.
+   E-Mails, deren Bearbeitung nicht mehr als 3 Minuten in Anspruch nimmt.
    E-Mails, deren Bearbeitung mehr Zeit in Anspruch nimmt, legen Sie in einer
    eigenen Ordnerstruktur ab und machen eine Aufgabe mit Termin daraus.
  - Wenn Sie eine Nachricht zum späteren Nachschlagen aufbewahren möchten,

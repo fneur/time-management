@@ -26,10 +26,10 @@ Schritt die Planung jedes einzelnen Tages.
 
 ### Divide-and-conquer-Strategie
 Um komplexe Aufgaben beherrschbar zu machen, bietet sich ein Vorgehen nach
-dem Prinzip "Teile und hersche" ("divide and conquer") an:
+dem Prinzip "Teile und herrsche" ("divide and conquer") an:
 
  1. Zerlegen Sie zunächst die Gesamtaufgabe in einzelne, kleine Teile, die
-    möglichst unabhängig voneinader bearbeitet werden können!
+    möglichst unabhängig voneinander bearbeitet werden können!
  1. Ordnen Sie die Teilaufgaben dann nach Abhängigkeiten, Prioritäten und
     Terminen!
  1. Bearbeiten Sie alle Teilaufgaben und kontrollieren am Ende das Ergebnis!
