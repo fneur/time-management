@@ -52,7 +52,8 @@ Für jede neue Aufgabe/Aktivität sind folgende Schritte zu durchlaufen:
    Harte Deadlines (also zeitliche Vorgaben, welche unbedingt einzuhalten sind)
    sollten dabei speziell gekennzeichnet werden.
  - Setzen Sie Prioritäten; d.h., entscheiden Sie darüber, welche Aufgaben
-   erstrangig, zweitrangig und welche nachrangig zu behandeln sind. Folgende
+   erstrangig (A-Aufgaben), zweitrangig (B-Aufgaben) und welche nachrangig
+   (C-Aufgaben) zu behandeln sind. Folgende
    Instrumente können dabei hilfreich sein:
     - [ABC-Analyse](./priorisierung.md#abc-analyse)
     - [Eisenhower-Prinzip](./priorisierung.md#eisenhower-prinzip)
@@ -91,8 +92,8 @@ um zugehörige Teilaufgaben):
  - Als Input für die konkrete Planung dienen:
     - Aufgaben und Aktivitäten aus der [Aufgabenliste](#aktivitaten-bzw-aufgabenliste),
     - Unerledigtes vom Vortag,
-    - geplante Termine und Meetings, Telefonate (sofern diese nicht in der
-      Aufgabenliste enthalten sind) sowie
+    - geplante Termine, Meetings, Telefonate etc. (sofern diese nicht bereits
+      in der Aufgabenliste enthalten sind), sowie
     - neu hinzukommende Tagesarbeiten.
 
  - Wie in der Beschreibung zur [Aufgabenliste](#aktivitaten-bzw-aufgabenliste)
@@ -105,27 +106,30 @@ um zugehörige Teilaufgaben):
     - 20% für spontane und soziale Aktivitäten (kreative Zeiten).
 
     ???+ tip "Praxistipp"
-        Nur 1-2 A-Aufgaben pro Tag (ca. 3h gesamt) einplanen, weitere 2-3
-        B-Aufgaben (etwa 1h gesamt) vorsehen, den Rest (etwa 0,75h) für
-        C-Aufgaben reservieren!
+        Nur ein bis zwei A-Aufgaben pro Tag (ca. 3h gesamt) einplanen, weitere
+        zwei bis drei B-Aufgaben (etwa 1h gesamt) vorsehen, den Rest
+        (etwa 0,75h) für C-Aufgaben reservieren!
  
         Für die Aufgabenkategorie "wichtig, nicht dringend" proaktiv Zeit im
         Tagesgeschehen blockieren. Auf diese Dinge kommt es wirklich an.
 
  - Für die konkrete Tagesplanung
     - teilen Sie den Tag gedanklich in Blöcke zu je maximal 1,5 bis 2 Stunden
-      Länge ein, mit kurzen Pausen zwischen den Blöcken.
+      Länge ein, mit kurzen Pausen zwischen den Blöcken, und wenden Sie
+      das [Pareto-Prinzip](./zielerreichung.md#pareto-prinzip) und (bei vielen
+      Aufgaben) das [Rotationsprinzip](./zielerreichung.md#pareto-prinzip) an.
     - Für die Erledigung von A-Aufgaben ist es sinnvoll, 45 bis 60 Minuten
       störungsfrei arbeiten zu können. Platzieren Sie daher den zugehörigen
-      Arbeitsblock möglichst am (frühen) Vormittag (bis 9 bzw. maximal 10 Uhr),
-      da diese Zeit typischerweise störarm bzw. weniger störanfällig ist.
+      Arbeitsblock möglichst am (frühen) Vormittag (bis 9:00 bzw. maximal
+      10:00 Uhr), da diese Zeit typischerweise störarm bzw. weniger
+      störanfällig ist.
 
     ???+ tip "Praxistipp"
         In der Praxis hat es sich deshalb bewährt, täglich eine "Stille Stunde"
         oder "Sperrzeit" einzurichten, in der man dafür sorgt, von niemandem
         gestört zu werden.
 
-    - Störanfällige Zeiten (10-12 Uhr und ab ca. 14:30 Uhr) sollten für weniger
+    - Störanfällige Zeiten (10:00-12:00 Uhr und ab ca. 14:30 Uhr) sollten für weniger
       wichtige Aufgaben genutzt werden.
     - Beachten Sie auch Ihre Leistungskurve:
         - Der Leistungshöhepunkt liegt am Vormittag (daher für A-Aufgaben
@@ -134,14 +138,12 @@ um zugehörige Teilaufgaben):
           Routinetätigkeiten und soziale Kontakte nutzen),
         - und einem Leistungsanstieg am späteren Nachmittag (daher für
           B-Aufgaben nutzen).
-    - Und wenden Sie das [Pareto-Prinzip](./zielerreichung.md#pareto-prinzip)
-      und (bei vielen Aufgaben)
-      das [Rotationsprinzip](./zielerreichung.md#pareto-prinzip) an.
 
  - Am Ende eines Tages stehen folgende Punkte auf dem Programm:
-    - Nachkontrolle - Schritt 5 der [ALPEN-Methode](#alpen-methode):
-        - SOLL/IST-Vergleich des Tagesplans
-        - Kontrolle der Tagesereignisse: dadurch geht Ihnen das
+    - Nachkontrolle der Tagesereignisse (Schritt 5 der
+      [ALPEN-Methode](#alpen-methode)):
+        - SOLL/IST-Vergleich anhand des Tagesplans
+        - Dadurch geht Ihnen das
           Unerledigte nicht verloren. (Sie übertragen es auf einen anderen
           Tag und erledigen es entsprechend später.) 
     - Planung des nächsten Tages (z.B. Unerledigtes vom Vortag übertragen)

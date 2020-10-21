@@ -1,7 +1,8 @@
 # Umgang mit Störungen und Zeitdieben
 Wenn es nicht so läuft, wie wir es erwarten oder planen, dann oft deshalb,
 weil zwischendurch immer wieder Störungen und Ablenkungen eintreten. An
-manchen sind wir selbst schuld; für andere ist unsere Umgebung verantwortlich:
+manchen sind wir selbst schuld, für andere ist unsere Umgebung verantwortlich;
+z.B.:
 
  - Internet, E-Mails und überflüssige Telefonate
  - Ins Nichts laufende Gespräche
@@ -16,7 +17,7 @@ Mindestmaß zu reduzieren.
     Wenn eine Störung voraussichtlich nicht länger als 3 Minuten dauert, dann
     erledigen Sie die Aufgabe sofort, ansonsten verschieben Sie sie auf später.
 
-Eine besondere Herausforderung stellt die tägliche E-Mail-Flut dar. Nutzen
+Eine besondere Herausforderung stellt die tägliche E-Mail Flut dar. Nutzen
 Sie E-Mails, aber lassen Sie sie nicht zu einem weiteren Zeitdieb werden, der
 Sie von Ihrer eigentlichen Arbeit ablenkt:
 
@@ -33,7 +34,7 @@ Sie von Ihrer eigentlichen Arbeit ablenkt:
  - Wenn Sie eine Nachricht zum späteren Nachschlagen aufbewahren möchten,
    legen Sie diese auch in einer Ordnerstruktur ab.
  - Überlegen Sie sorgfältig, wer Ihre E-Mail in Kopie benötigt. So gehen Sie
-   als Vorbild voran, was die Eindämmung der E-Mail-Flut angeht.
+   als Vorbild voran, was die Eindämmung der E-Mail Flut angeht.
 
 ???+ tip "Handlungsempfehlung"
     Erstellen Sie eine Liste mit Zeitdieben, auf die Sie künftig verzichten
